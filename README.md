@@ -6,8 +6,8 @@
 
 ## 🌐 我的网站
 
-- **个人主页**: [CuberLiuWeb](https://www.cuberliu.xyz/)
-- **博客**: [CuberLiu 的博客](https://blog.cuberliu.xyz/) - 我会在这里分享技术思考和相关教程
+- **个人主页**: [Cuber.liu Web](https://www.cuberliu.xyz/)
+- **博客**: [Cuber.iu Blog](https://blog.cuberliu.xyz/) - 我会在这里分享技术思考和相关教程
 
 ## 🛠️ 我的项目
 
