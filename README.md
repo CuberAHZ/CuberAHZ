@@ -32,7 +32,7 @@
 
 - 📧 邮箱: my@cuberliu.xyz
 - **GitHub**: [https://github.com/CuberAHZ](https://github.com/CuberAHZ)
-- **主页**: [https://www.cuberliuweb.xyz/](https://www.cuberliu.xyz/)
-- **博客**: [https://blog.cuberliuweb.xyz/](https://blog.cuberliu.xyz/)
+- **主页**: [https://www.cuberlib.xyz/](https://www.cuberliu.xyz/)
+- **博客**: [https://blog.cuberliu.xyz/](https://blog.cuberliu.xyz/)
 
 欢迎探索我的代码库，如果有任何问题或合作意向，欢迎联系我！ 😊
