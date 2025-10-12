@@ -21,6 +21,11 @@
 
 `PowerShellMonitor` 是一个基于 PySide6 的系统托盘应用程序，用于监控和管理 PowerShell 进程或任何其他可执行程序。
 
+### CalcuLite
+[GitHub - CuberAHZ/CalcuLite](https://github.com/CuberAHZ/CalcuLite)
+
+`CalcuLite` 是基于Sympy和PySide6简易的微积分计算器，fork from [GitHub - limingkang12345/CalculusCalculator](https://github.com/limingkang12345/CalculusCalculator)
+
 ## 📫 联系我
 
 如果你对我的项目感兴趣，或者有任何问题和建议，欢迎通过以下方式与我联系：
