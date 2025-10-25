@@ -11,6 +11,11 @@
 
 ## 🛠️ 我的项目
 
+### OpenVelocity
+[GitHub - CuberAHZ/OpenVelocity](https://github.com/CuberAHZ/OpenVelocity)
+
+`OpenVelocity` 是一个拥有离线和正版共存api的 Minecraft 服务器代理
+
 ### CalcuLite
 [GitHub - CuberAHZ/CalcuLite](https://github.com/CuberAHZ/CalcuLite)
 
@@ -28,4 +33,4 @@
 欢迎探索我的代码库，如果有任何问题或合作意向，欢迎联系我！ 😊
 
 
-## [其他项目](other.md)
+## [所有项目](other.md)
