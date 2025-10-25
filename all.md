@@ -1,4 +1,14 @@
-## 所有项目
+## 所有项目（活跃的）
+
+### OpenVelocity
+[GitHub - CuberAHZ/OpenVelocity](https://github.com/CuberAHZ/OpenVelocity)
+
+`OpenVelocity` 是一个拥有离线和正版共存api的 Minecraft 服务器代理
+
+### CalcuLite
+[GitHub - CuberAHZ/CalcuLite](https://github.com/CuberAHZ/CalcuLite)
+
+`CalcuLite` 是基于Sympy和PySide6简易的微积分计算器，fork from [GitHub - limingkang12345/CalculusCalculator](https://github.com/limingkang12345/CalculusCalculator)
 
 ### mrliu_tools
 [GitHub - CuberAHZ/mrliu_tools](https://github.com/CuberAHZ/mrliu_tools)
