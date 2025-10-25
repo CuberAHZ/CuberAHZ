@@ -33,4 +33,4 @@
 欢迎探索我的代码库，如果有任何问题或合作意向，欢迎联系我！ 😊
 
 
-## [所有项目](other.md)
+## [所有项目](https://github.com/CuberAHZ/CuberAHZ/blob/main/all.md)
